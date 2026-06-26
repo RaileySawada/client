@@ -1,0 +1,10 @@
+/* TEAM */
+
+Project: SCAFKIT
+Description: React + TypeScript starter kit for PERN stack.
+
+/* TECHNOLOGY */
+
+React
+TypeScript
+Vite
